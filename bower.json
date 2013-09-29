@@ -1,0 +1,23 @@
+{
+  "name": "gamut.js",
+  "main": "gamut.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/btparker/gamut.js",
+  "authors": [
+    "Bryan Tyler Parker <btylerparker@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.0.0",
+    "chai": "~1.8.0",
+    "color-thief": "*"
+  }
+}

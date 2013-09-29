@@ -1,0 +1,12 @@
+{
+	"framework" : "mocha",
+	"launch_in_dev" : [
+		"chrome"
+	],
+	"src_files" : [
+		"libs/chai/chai.js",
+		"libs/color-thief/js/color-thief.js",
+		"src/*",
+		"tests/*.js"
+	]
+}
